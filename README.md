@@ -29,7 +29,6 @@ LinkedIn:
 https://www.linkedin.com/in/ricardo-chies-087557216/
 
 E-mail:
-ricardochies5@gmail.com
+chies.dev@gmail.com
 
-Base para criação do projeto:
-https://www.youtube.com/watch?v=Q2QdkiX6p_Y
+Este projeto foi cirado com base na explicação do Eduardo Pires
